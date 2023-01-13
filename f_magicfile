@@ -1,0 +1,2 @@
+#[byte][type][  ][magicfile]
+10 string findmagic magicfile

@@ -1,0 +1,2 @@
+diff a b sw.diff
+patch a sw.diff -o b
